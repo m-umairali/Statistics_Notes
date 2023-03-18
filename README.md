@@ -1,2 +1,3 @@
 # Statistics_Notes
-Statistics Notes from random resources
+
+This Github repository contains a collection of resources and code examples related to statistics and probability for data science. The repository includes various topics such as descriptive statistics, probability theory, statistical inference, hypothesis testing, regression analysis, and more. The resources are designed to help data scientists gain a deeper understanding of statistical concepts and apply them to real-world data problems. The repository also includes practical examples and code snippets in Python to illustrate the application of these concepts in data analysis.
